@@ -1,8 +1,10 @@
-# React + Vite
+# Pizza React App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Pizza React App** is a modern web application built using **React.js**. The application leverages **React Hooks** for efficient state management, **Redux** for centralized state handling, **React Router** for seamless navigation, and **TailwindCSS** for responsive and stylish design. This app provides a user-friendly interface that allows users to conveniently order pizzas online.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Key Features:
+- **React.js**: Dynamic and efficient front-end framework.
+- **React Hooks**: Simplified state management and side effects handling.
+- **Redux**: Centralized state management for predictable state flow.
+- **React Router**: Smooth and intuitive navigation between pages.
+- **TailwindCSS**: Utility-first CSS framework for responsive and clean UI design.
